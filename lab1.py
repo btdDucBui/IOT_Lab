@@ -5,7 +5,7 @@ import random
 
 AIO_FEED_ID = ["nutnhan1", "nutnhan2"]
 AIO_USERNAME = "Bui_Duc"
-AIO_KEY = "aio_hyOa38fg0uspVNRCziRNd2MzBz8N"
+AIO_KEY = "aio_suRf36fKFU7mOAcyCNid9BrzQMtC"
 
 def connected(client):
     print("Ket noi thanh cong ...")
